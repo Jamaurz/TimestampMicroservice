@@ -1,0 +1,6 @@
+{
+  "name": "Timestamp Microservice",
+  "description": "A Node.js app using Express",
+  "repository": "https://github.com/Jamaurz/TimestampMicroservice.git",
+  "keywords": ["node", "express"],
+}
